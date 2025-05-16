@@ -4,6 +4,12 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Suehara/TitleScene/TitleScene.unity
+    guid: 18f2d39d1cfedf94aac5f76821f0f2c3
+  - enabled: 1
+    path: Assets/Suehara/SelectScene/SelectScene.unity
+    guid: 8cd9d662c86e0844db0d8f5a6c694dfb
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 77d105754a151ec4ea73713430925cdd, type: 2}
